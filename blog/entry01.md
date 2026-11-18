@@ -46,6 +46,7 @@ async function readFileExample() {
   }
 }
 ```
+sorce: https://www.w3schools.com/js/js_async_await.asp
 
 the fs method used in this code snippet is fs.readFile which just looks at the code and reads what the file says from what a text editor would see. and it does this with await and async so that if i were to plop this code into other code it wouldn't slow it down. 
 
